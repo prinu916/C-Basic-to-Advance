@@ -6,11 +6,25 @@ A complete C++ learning repository covering concepts from **Basic to Advanced** 
 
 ### 📌 A — Basics of C++
 
-* Introduction to C++
-* Variables & Data Types
-* Input / Output
-* Operators
-* Type Casting
+Area OfaCircle
+arthmaticOprators
+CalculateSimpleInterest
+CharDataType
+howtocommentoralsobreaktheline
+Howtoprint
+immportant
+IncrementOrDecrement
+inttochar
+Modules Opreater
+Practice
+printing Numbers
+SquareOfaNumberUserInput
+SumOfTwoguvenNumber
+SumOfTwoguvenNumber
+Ternary--Operator
+Typecasting
+updationOfvariables
+variables
 
 ### 📌 B — If-Else Conditions
 

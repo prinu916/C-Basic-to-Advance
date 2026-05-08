@@ -91,7 +91,6 @@ variables
 * Character Arrays
 * String Problems
 
----
 
 # 📂 Folder Structure
 
@@ -110,7 +109,6 @@ C++ Basic to Advance/
 └── J---String
 ```
 
----
 
 # 🎯 Goal of This Repository
 
@@ -121,23 +119,19 @@ This repository is created for:
 * Coding interview preparation
 * DSA foundation building
 
----
 
 # 🛠️ Technologies Used
 
 * Language: **C++**
 * Compiler: **g++ / VS Code / CodeBlocks**
 
----
 
 # ▶️ How to Run
 
 ```bash
 g++ filename.cpp
 ./a.out
-```
 
----
 
 # ⭐ Support
 
@@ -146,8 +140,6 @@ If you found this repository helpful:
 * ⭐ Star the repo
 * 🍴 Fork it
 * 📢 Share with others
-
----
 
 # 👨‍💻 Author
 
